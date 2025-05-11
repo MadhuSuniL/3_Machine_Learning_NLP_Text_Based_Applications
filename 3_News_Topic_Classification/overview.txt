@@ -1,0 +1,4 @@
+Project: 3 News Topic Classification
+
+Problem Statement:
+Categorize news articles into politics, sports, entertainment, etc.
