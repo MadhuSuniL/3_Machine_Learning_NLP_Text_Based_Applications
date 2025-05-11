@@ -1,0 +1,4 @@
+Project: 1 Email Spam Detection
+
+Problem Statement:
+Classify emails as spam or not using textual features.
