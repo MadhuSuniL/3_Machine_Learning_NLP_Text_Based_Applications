@@ -1,0 +1,4 @@
+Project: 7 Review Sentiment Dashboard
+
+Problem Statement:
+Analyze customer product reviews and show sentiment insights in a dashboard.

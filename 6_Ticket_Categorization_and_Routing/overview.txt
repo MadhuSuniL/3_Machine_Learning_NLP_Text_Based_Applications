@@ -1,0 +1,4 @@
+Project: 7 Ticket Categorization and Routing
+
+Problem Statement:
+Automatically classify and route customer support tickets.

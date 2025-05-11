@@ -1,0 +1,4 @@
+Project: 5 Fake News Detection API
+
+Problem Statement:
+Detect fake news using NLP models and deploy it as an API.
