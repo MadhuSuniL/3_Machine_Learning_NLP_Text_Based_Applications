@@ -1,0 +1,4 @@
+Project: 2 Text Emotion Classification
+
+Problem Statement:
+Classify text into emotions like happy, sad, angry, etc.
